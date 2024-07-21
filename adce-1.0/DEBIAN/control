@@ -1,0 +1,9 @@
+Package: adce
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk
+Maintainer: Gronick <gr6systems@pm.me>
+Description: Administrador Electronica
+ Una aplicación para gestionar componentes electrónicos.

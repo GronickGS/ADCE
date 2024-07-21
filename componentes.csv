@@ -1,15 +1,48 @@
-Nombre,serie
-Arduino,Nano
-Arduino,Uno
-Circuito integrado,TDA2030L
-Circuito integrado,L7805
-Circuito integrado,LM386
-Circuito itegrado,L2930
-Condensador,680 mf
-Micro servo,SG90
-Modulo led,MAX7219
-Modulo rele,SRD05-X4PCB
-Potneciometro,10K
-Potneciometro,100K
-Transistor,2N 2222
-Ultrasonico,HC-SR04
+Nombre,serie,cantidad
+Arduino,Nano,1
+Arduino,Uno,1
+Circuito integrado,TDA2030L,2
+Circuito integrado,L7805CV,2
+Circuito integrado,LM386,2
+Circuito integrado,L2930,1
+Condensador ceramico,103,4
+Condensador ceramico,104,1
+Condensador ceramico,203,1
+Condensador electrolito,680 uf 25V,1
+Condensador electrolito,22 uf 50V,1
+Condensador electrolito,220 uf 16V,2
+Condensador electrolito,470 uf 16V,1
+Condensador electrolito,10 uf 25V,3
+Condensador electrolito,10 uf 16v,1
+Condensador poliester,2A104K,1
+Condensador poliester,2A222K,1
+Condensador poliester,2A103K,1
+Condensador poliester,102K,1
+Diodo,IN4007,3
+Diodo,IN5399,2
+Micro servo,SG90,4
+Modulo led,MAX7119,1
+Modulo rele,SRD05-X1PCB,1
+Modulo rele,SRD05-X4PCB,1
+Panel solar,107X6,1
+Potenciometro,100K,1
+Potenciometro,10K,2
+Protoboard,ZP-830,2
+Protoboard,SB-8355,1
+Resistor,220 Ohn 1/2,7
+Resistor,330 Ohn 1/4,5
+Resistor,10K 1/4,4
+Resistor,2.2K 1/2,1
+Resistor,22K 1/4,3
+Resistor,1K 1/4,1
+Resistor,1.2 k 1/4,1
+Resistor,5W10RJ,1
+Resistor,1000K,1
+Resistor,4.7 K,1
+Resistor,100 K,1
+Resistor,100 Ohn,1
+Transistor,2N2222,3
+Transistor,BC327,1
+Transistor,BC548,1
+Transistor,BC547,2
+Ultrasonico,HC-SR04,2
